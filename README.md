@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kamran Ayaz 👋  
 
-<!--
-**fastwithkamran/fastwithkamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS student at FAST-NUCES Karachi  
+🚀 Building skills   
+💡  A Computer Science student passionate about coding and developing cool things! Building Skills in Programming, Web Development & Problem-Solving. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- [Learning Log](https://github.com/fastwithkamran/Learning_Log)  
+- Portfolio Website (Coming soon 🚀) 
+
+---
+
+## 🛠 Skills    
+- Web: HTML, CSS  
+- Currently Learning: C
+
+---
+
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastwithkamran&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-ayaz-bb0a1534b)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.91@gmail.com)  
