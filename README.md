@@ -8,7 +8,6 @@
 
 ## 💻 Projects
 - [Learning Log](https://github.com/fastwithkamran/Learning_Log)  
-- Portfolio Website (Coming soon 🚀) 
 
 ---
 
