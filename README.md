@@ -2,7 +2,7 @@
 
 🎓 CS student at FAST-NUCES Karachi  
 🚀 Building skills   
-💡  A Computer Science student passionate about coding and developing cool things! Building Skills in Programming, Web Development & Problem-Solving. 
+💡  A Computer Science student passionate about coding, problem solving, and developing cool things! 
 
 ---
 
