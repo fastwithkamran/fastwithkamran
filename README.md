@@ -8,8 +8,7 @@
 
 ## 💻 Projects
 - [Learning Log](https://github.com/fastwithkamran/Learning_Log)
-- https://ultraeditclone-tau.vercel.app/  
-
+  
 ---
 
 ## 🛠 Skills    
