@@ -6,8 +6,8 @@
 
 ---
 
-## 💻 Projects
-- [Learning Log](https://github.com/fastwithkamran/Learning_Log)
+## 💻 Practice-Projects
+-  [UltraEdit Clone](https://ultraeditclone-fastwithkamran.vercel.app/)
   
 ---
 
