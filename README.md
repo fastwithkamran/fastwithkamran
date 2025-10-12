@@ -12,7 +12,7 @@
 ---
 
 ## 🛠 Skills    
-- Web: HTML, CSS  
+- Web: HTML, CSS, BOOTSTRAP  
 - Currently Learning: C
 
 ---
