@@ -1,8 +1,8 @@
 # Hi, I'm Kamran Ayaz 👋  
 
-🎓 CS student at FAST-NUCES Karachi  
-🚀 Building skills
-💡 Passionate about building creative digital solutions and learning new technologies.  
+🎓 CS student at FAST-NUCES Karachi.  
+🚀 Building skills! 
+💡 I enjoy solving problems, creating clean and responsive designs, and continuously improving my coding abilities.  
 💬 Always open to collaborating on exciting projects and learning from others in the tech community!
 
 ---
