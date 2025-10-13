@@ -1,8 +1,9 @@
 # Hi, I'm Kamran Ayaz 👋  
 
 🎓 CS student at FAST-NUCES Karachi  
-🚀 Building skills   
-💡  A Computer Science student passionate about coding, problem solving, and developing cool things! 
+🚀 Building skills
+💡 Passionate about building creative digital solutions and learning new technologies.  
+💬 Always open to collaborating on exciting projects and learning from others in the tech community!
 
 ---
 
@@ -24,4 +25,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwithkamran)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.91@gmail.com)  
+[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.91@gmail.com)  
