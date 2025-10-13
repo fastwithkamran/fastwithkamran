@@ -1,11 +1,10 @@
 # Hi, I'm Kamran Ayaz 👋  
 
-🎓 CS student at FAST-NUCES Karachi.
-🚀 Building skills in coding and web development.
-
-💡 I enjoy solving problems, creating clean and responsive designs, and continuously improving my coding abilities.
-🤖 Fascinated by **Artificial Intelligence**, especially how machine learning and automation can make technology smarter and more human-friendly.
-💬 Always open to collaborate on exciting projects and learning from others in the tech community!
+🎓 CS student at FAST-NUCES Karachi.  
+🚀 Building skills in coding and web development.  
+💡 I enjoy solving problems, creating clean and responsive designs, and continuously improving my coding abilities.  
+🤖 Fascinated by **Artificial Intelligence**, especially how machine learning and automation can make technology smarter and more human-friendly.  
+💬 Always open to collaborate on exciting projects and learning from others in the tech community!  
 
 ---
 
