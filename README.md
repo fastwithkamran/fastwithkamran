@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Practice-Projects
--  [UltraEdit Clone](https://ultraeditclone-fastwithkamran.vercel.app/)
+-  [Tech Store](https://k250792-labs.github.io/Tech_Store/)
   
 ---
 
