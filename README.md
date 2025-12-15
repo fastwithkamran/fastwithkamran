@@ -19,16 +19,11 @@
 - Programming Language: C
 ---
 ## [![LeetCode Profile](https://img.shields.io/badge/LeetCode-fastwithkamran-orange?logo=leetcode&style=flat-square)](https://leetcode.com/fastwithkamran/)
-<a href="https://leetcode.com/fastwithkamran/">
-  <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=light"
-       alt="LeetCode Stats"
-       #gh-light-mode-only />
-</a>
-<a href="https://leetcode.com/fastwithkamran/">
-  <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=dark&bg=1E3A8A&text=FFFFFF"
-       alt="LeetCode Stats"
-       #gh-dark-mode-only />
-</a>
+<p align="center">
+  <a href="https://leetcode.com/fastwithkamran/">
+    <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=dark&bg=1E3A8A&text=FFFFFF" />
+  </a>
+</p>
 
 ---
 
