@@ -19,7 +19,7 @@
 - Programming Language: C
 ---
 ## [![LeetCode Profile](https://img.shields.io/badge/LeetCode-fastwithkamran-orange?logo=leetcode&style=flat-square)](https://leetcode.com/fastwithkamran/)
-![LeetCode Stats](https://leetcard.jacoblin.cool/fastwithkamran?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/fastwithkamran?theme=light&bg=0D47A1&text=FFFFFF)
 
 ---
 
