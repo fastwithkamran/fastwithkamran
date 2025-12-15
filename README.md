@@ -1,25 +1,29 @@
 # Hi, I'm Kamran Ayaz 👋  
 
-🎓 CS student at FAST-NUCES Karachi.  
-🚀 Building skills in coding and web development.  
-💡 I enjoy solving problems, creating clean and responsive designs, and continuously improving my coding abilities.  
-🤖 Fascinated by **Artificial Intelligence**, especially how machine learning and automation can make technology smarter.    
-💬 Always open to collaborate on exciting projects and learning from others in the tech community!  
+🎓 CS student at FAST-NUCES Karachi.   
+💡 Driven by a passion for solving complex problems, crafting elegant and responsive designs, and continuously refining my programming expertise.   
+🤖 Fascinated by Artificial Intelligence, particularly how machine learning and automation can make technology smarter and more intuitive.   
+📂 Building projects that merge creativity with logic.   
+💬 Always open to collaborating on exciting projects and learning from others in the tech community!  
 
 ---
 
-## 💻 Practice-Projects
+## 💻 Projects
+-  [Tech Store](https://k250792-labs.github.io/Tech_Store/)
 -  [UltraEdit Clone](https://ultraeditclone-fastwithkamran.vercel.app/)
   
 ---
 
 ## 🛠 Skills    
-- Web: HTML, CSS, BOOTSTRAP  
-- Currently Learning: C
-
+- Web: HTML5, CSS3, BOOTSTRAP 5 
+- Programming Language: C
 ---
-
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastwithkamran&show_icons=true&theme=radical)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fastwithkamran&layout=compact&theme=radical)
+## [![LeetCode Profile](https://img.shields.io/badge/LeetCode-fastwithkamran-orange?logo=leetcode&style=flat-square)](https://leetcode.com/fastwithkamran/)
+<p align="center">
+  <a href="https://leetcode.com/fastwithkamran/">
+    <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=dark&bg=1E3A8A&text=FFFFFF" />
+  </a>
+</p>
 
 ---
 
