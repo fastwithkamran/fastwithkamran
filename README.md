@@ -16,7 +16,9 @@
 ## 🛠 Skills    
 - Web: HTML5, CSS3, BOOTSTRAP 5 
 - Programming Learning: C
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Username-orange?logo=leetcode&style=flat-square)](https://www.linkedin.com/in/fastwithkamran)  
+---
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Username-orange?logo=leetcode&style=flat-square)](https://leetcode.com/fastwithkamran/)
+
 ---
 
 ![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fastwithkamran&show_icons=true&theme=radical)             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fastwithkamran&layout=compact&theme=radical)
