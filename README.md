@@ -9,7 +9,7 @@
 ---
 
 ## 💻 Projects
--  [Tech Store](https://techstore-nuym3qakq-fastwithkamrans-projects.vercel.app/)
+-  [Tech Store](https://techstore-inky.vercel.app/))
 -  [UltraEdit Clone](https://ultraeditclone-fastwithkamran.vercel.app/)
   
 ---
