@@ -10,7 +10,6 @@
 
 ## 💻 Projects
 -  [Tech Store](https://techstore-inky.vercel.app/)
--  [UltraEdit Clone](https://ultraeditclone-fastwithkamran.vercel.app/)
 -  [UniPrep](https://github.com/fastwithkamran/UniPrep)
   
 ---
