@@ -30,4 +30,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwithkamran)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)  
-[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.91@gmail.com)  
+[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.76@gmail.com)  
