@@ -1,6 +1,8 @@
 # Hi, I'm Kamran Ayaz 👋  
 ### [🌐 View My Portfolio](https://your-portfolio-link.com)
 
+---
+
 🎓 CS student at FAST-NUCES Karachi.   
 💡 Driven by a passion for solving complex problems, crafting elegant and responsive designs, and continuously refining my programming expertise.   
 🤖 Fascinated by Artificial Intelligence, particularly how machine learning and automation can make technology smarter and more intuitive.   
