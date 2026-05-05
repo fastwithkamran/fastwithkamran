@@ -1,4 +1,7 @@
 # Hi, I'm Kamran Ayaz 👋  
+### [🌐 View My Portfolio](https://kamranportfolio-six.vercel.app/)
+
+---
 
 🎓 CS student at FAST-NUCES Karachi.   
 💡 Driven by a passion for solving complex problems, crafting elegant and responsive designs, and continuously refining my programming expertise.   
@@ -9,6 +12,7 @@
 ---
 
 ## 💻 Projects
+-  [EduGlobe](https://eduglobe-770404023630.asia-south1.run.app)
 -  [Tech Store](https://techstore-inky.vercel.app/)
 -  [UniPrep](https://github.com/fastwithkamran/UniPrep)
   
@@ -30,4 +34,4 @@
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwithkamran)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)  
-[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.91@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.83@gmail.com)
