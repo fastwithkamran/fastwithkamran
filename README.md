@@ -12,6 +12,7 @@
 ---
 
 ## 💻 Projects
+-  [KaamYaab](https://github.com/fastwithkamran/KaamYaab)
 -  [EduGlobe](https://eduglobe-770404023630.asia-south1.run.app)
 -  [CityVoice](https://cityvoice-two.vercel.app/)
 -  [Tech Store](https://techstore-inky.vercel.app/)
