@@ -13,7 +13,7 @@
 
 ---
 
-I'm a 2nd-year CS student at FAST-NUCES Karachi. I started with `printf("Hello, World!")` in C, built my way through the MERN stack, and now I ship full-stack apps with real-time features, Stripe payments, and cloud deployments. I also build with AI tools — knowing *how* to leverage AI is a skill of its own in 2026.
+I'm a 2nd-year CS student at FAST-NUCES Karachi. I started with C, built my way through the MERN stack, and now I ship full-stack apps with real-time features, Stripe payments, and cloud deployments. I also build with AI tools — knowing *how* to leverage AI is a skill of its own in 2026.
 
 ---
 
@@ -27,14 +27,14 @@ I'm a 2nd-year CS student at FAST-NUCES Karachi. I started with `printf("Hello, 
 
 Awarded by **Google for Developers** in collaboration with Pakistan's Ministry of IT & Telecom, Telenor Pakistan & Innovista — a **nationwide AI upskilling competition**.
 
-Recognized for building **[EduGlobe](https://tinyurl.com/eduglobe)** — a global academic discovery platform with a Gemini-powered AI assistant.
+Recognized for building **[EduGlobe](https://edu-globe-fastwithkamran.vercel.app)** — a global academic discovery platform with a Gemini-powered AI assistant.
 
 </td>
 <td valign="top" width="45%" align="center">
 
 <img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="235" alt="Google AI Seekho 2026 Silver Tier Swag" />
 
-*Google AI Seekho 2026 — Silver Tier Swag*
+*Google AI Seekho 2026 Swag*
 
 </td>
 </tr>
@@ -87,9 +87,9 @@ Console-based test prep tool built in pure C. Register → pick university + sub
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [EduGlobe](https://tinyurl.com/eduglobe) | Next.js · Gemini API · Firebase · Cloud Run | Global student discovery platform — follow universities, scholars & NGOs. Gemini AI assistant built in. **Google Swags, AI Seekho 2026.** |
-| [KaamYaab](https://github.com/fastwithkamran/KaamYaab) | Flutter · Python · Cohere AI · Firebase | Agentic mobile app connecting Pakistan's informal workers with customers. Multi-agent backend, voice booking in Urdu/English. **GDG Pakistan Hackathon.** |
-| [CityVoice](https://cityvoice-two.vercel.app) | React · Firebase Firestore | Civic platform — residents submit urban ideas, community votes in real time. |
+| [EduGlobe](https://edu-globe-fastwithkamran.vercel.app) | Next.js · Gemini API · Firebase · Cloud Run | Global student discovery platform — follow universities, scholars & NGOs. Gemini AI assistant built in. **AI Seekho Hackathon 2026.** |
+| [KaamYaab](https://github.com/fastwithkamran/KaamYaab) | Flutter · Python · Cohere AI · Firebase | Agentic mobile app connecting Pakistan's informal workers with customers. Multi-agent backend, voice booking in Urdu/English. **GDG Pakistan Hackathon 2026.** |
+| [CityVoice](https://cityvoice-fastwithkamran.vercel.app) | React · Firebase Firestore | Civic platform — residents submit urban ideas, community votes in real time. |
 
 ---
 
@@ -135,4 +135,4 @@ Gemini API  ·  Cohere AI  ·  Vertex AI (Prompt Design)  ·  Flutter  ·  Pytho
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwithkamran)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.83@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white)](https://fastwithkamran.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white)](https://fastwithkamran.vercel.app)
