@@ -19,22 +19,26 @@ I'm a 2nd-year CS student at FAST-NUCES Karachi. I started with C, built my way 
 
 ## 🏆 Achievements
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ### Google Swags — AI Seekho 2026
 
 Awarded by **Google for Developers** in collaboration with Pakistan's Ministry of IT & Telecom, Telenor Pakistan & Innovista — a **nationwide AI upskilling competition**.
 
-Recognized for building **[EduGlobe](https://edu-globe-fastwithkamran.vercel.app)** — a global academic discovery platform with a Gemini-powered AI assistant.
+Recognized for building **[Opportune](https://opportune-pk.vercel.app)** — a student opportunity discovery platform with a Gemini-powered AI assistant.
 
-</td>
-<td valign="top" width="45%" align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="235" alt="Google AI Seekho 2026 Silver Tier Swag" />
+<img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="100%" alt="Google AI Seekho 2026 Silver Tier Swag" />
 
 *Google AI Seekho 2026 Swag*
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://res.cloudinary.com/hodumcas/image/upload/v1791133848/Email_gms9by.png" width="100%" alt="AI Seekho 2026 email confirming selection for the Silver Tier swag package" />
+
+*AI Seekho 2026 Email*
 
 </td>
 </tr>
@@ -87,7 +91,7 @@ Console-based test prep tool built in pure C. Register → pick university + sub
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [EduGlobe](https://edu-globe-fastwithkamran.vercel.app) | Next.js · Gemini API · Firebase · Cloud Run | Global student discovery platform — follow universities, scholars & NGOs. Gemini AI assistant built in. **AI Seekho Hackathon 2026.** |
+| [Opportune](https://opportune-pk.vercel.app) | Next.js · Gemini API · Firebase · Cloudinary | Student opportunity platform for discovering hackathons, scholarships, internships, competitions, and events in one place. **AI Seekho Hackathon 2026.** |
 | [KaamYaab](https://github.com/fastwithkamran/KaamYaab) | Flutter · Python · Cohere AI · Firebase | Agentic mobile app connecting Pakistan's informal workers with customers. Multi-agent backend, voice booking in Urdu/English. **GDG Pakistan Hackathon 2026.** |
 | [CityVoice](https://cityvoice-fastwithkamran.vercel.app) | React · Firebase Firestore | Civic platform — residents submit urban ideas, community votes in real time. |
 
