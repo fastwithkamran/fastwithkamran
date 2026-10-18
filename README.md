@@ -27,9 +27,11 @@ I am a Computer Science undergraduate at **FAST-NUCES Karachi** and a Full-Stack
 
 ## Honors & Recognition
 
-* **Dev Weekends Full-Stack Fellowship (Silver Fellow):** Intensive engineering fellowship guided by senior software engineers. Shipped production-grade MERN applications ([MultiMart](https://multi-mart-fastwithkamran.vercel.app), [PakLands](https://paklands-fastwithkamran.vercel.app)) and solved 50+ DSA challenges. &nbsp;·&nbsp; [Verify Credential](https://app.pathment.me/w/devweekends/verify/8PJW7EQG3XCR)
+### Dev Weekends Full-Stack Fellowship
 
-* ### Google AI Seekho 2026
+Intensive engineering fellowship guided by senior software engineers. Shipped production-grade MERN applications ([MultiMart](https://multi-mart-fastwithkamran.vercel.app), [PakLands](https://paklands-fastwithkamran.vercel.app)) and solved 50+ DSA challenges. &nbsp;·&nbsp; [Verify Credential](https://app.pathment.me/w/devweekends/verify/8PJW7EQG3XCR)
+
+### Google AI Seekho 2026
 
 Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Recognized for developing **[Opportune](https://opportune-pk.vercel.app)**.
 
@@ -123,7 +125,7 @@ Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telen
 
 ---
 
-## Contact
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fastwithkamran"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
