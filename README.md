@@ -1,142 +1,143 @@
-<h1 align="center">Hey, I'm Kamran Ayaz 👋</h1>
+<h1 align="center">Hey, I'm Kamran Ayaz</h1>
 
 <p align="center">
-  <b>CS Student @ FAST-NUCES Karachi &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; AI Enthusiast</b>
+  <b>Computer Science Student @ FAST-NUCES Karachi &nbsp;|&nbsp; Full-Stack & Mobile Developer &nbsp;|&nbsp; Dev Weekends Mentee</b>
 </p>
 
 <p align="center">
-  <a href="https://fastwithkamran.vercel.app/">🌐 Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/fastwithkamran">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:kamranayaz.83@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  📍 Karachi, Pakistan
+  <a href="https://fastwithkamran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fastwithkamran.vercel.app-00c8ff?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/fastwithkamran"><img src="https://img.shields.io/badge/LinkedIn-fastwithkamran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://leetcode.com/fastwithkamran/"><img src="https://img.shields.io/badge/LeetCode-fastwithkamran-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
+  <a href="mailto:kamranayaz.83@gmail.com"><img src="https://img.shields.io/badge/Email-kamranayaz.83@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  Karachi, Pakistan &nbsp;·&nbsp; FAST-NUCES (BS CS, Class of 2029)
 </p>
 
 ---
 
-I'm a 2nd-year CS student at FAST-NUCES Karachi. I started with C, built my way through the MERN stack, and now I ship full-stack apps with real-time features, Stripe payments, and cloud deployments. I also build with AI tools — knowing *how* to leverage AI is a skill of its own in 2026.
+## About
+
+I am a Computer Science undergraduate at **FAST-NUCES Karachi** and a Full-Stack Engineering Mentee at **Dev Weekends**. I build production-ready web and mobile applications using the **MERN stack** and **React Native**, containerize with **Docker**, automate with **CI/CD pipelines**, and deploy across **AWS & Vercel**.
+
+* **Current Focus:** Data Structures & Algorithms in C++, cloud architecture, and building a full-featured Learning Management System (LMS).
+* **Core Strengths:** Full-stack architecture, REST APIs, real-time communication (Socket.IO), payment gateways (Stripe), React & React Native, and CI/CD automation.
 
 ---
 
-## 🏆 Achievements
+## Featured Projects
 
-### Google Swags — AI Seekho 2026
+| Project | Stack | Overview | Links |
+| :--- | :--- | :--- | :--- |
+| **MultiMart** | React 19, Node.js, Express, MongoDB, Socket.IO, Stripe | Production multivendor e-commerce platform. Features role-based JWT auth, real-time buyer-seller chat, Stripe checkout, and seller analytics dashboards. | [Live Demo](https://multi-mart-fastwithkamran.vercel.app) \| [GitHub](https://github.com/fastwithkamran/MultiMart) |
+| **Opportune** | NextJs, TypeScript, Gemini API, Firebase, Cloudinary | Opportunity discovery platform helping students find hackathons, internships, and scholarships. Features an embedded Gemini AI assistant. | [Live Demo](https://opportune-pk.vercel.app) \| [GitHub](https://github.com/fastwithkamran/Opportune) |
+| **PakLands** | React 19, Node.js, MongoDB, Docker, Firebase Auth | Real estate listing platform with cascading location filters and multi-image uploads. Fully containerized with Docker. | [Live Demo](https://paklands-realestate-project.vercel.app) \| [GitHub](https://github.com/fastwithkamran/PakLands) |
 
-Awarded by **Google for Developers** in collaboration with Pakistan's Ministry of IT & Telecom, Telenor Pakistan & Innovista — a **nationwide AI upskilling competition**.
+---
 
-Recognized for building **[Opportune](https://opportune-pk.vercel.app)** — a student opportunity discovery platform with a Gemini-powered AI assistant.
+## Honors & Recognition
+
+### Google AI Seekho 2026 — Silver Tier Winner
+Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Recognized for engineering **[Opportune](https://opportune-pk.vercel.app)**.
 
 <table>
 <tr>
 <td align="center" width="50%">
-
-<img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="100%" alt="Google AI Seekho 2026 Silver Tier Swag" />
-
-*Google AI Seekho 2026 Swag*
-
+  <img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="100%" alt="Google AI Seekho 2026 Swag" />
+  <br><sub>Google AI Seekho 2026 Swag Package</sub>
 </td>
 <td align="center" width="50%">
-
-<img src="https://res.cloudinary.com/hodumcas/image/upload/v1791133848/Email_gms9by.png" width="100%" alt="AI Seekho 2026 email confirming selection for the Silver Tier swag package" />
-
-*AI Seekho 2026 Email*
-
+  <img src="https://res.cloudinary.com/hodumcas/image/upload/v1791133848/Email_gms9by.png" width="100%" alt="AI Seekho 2026 Selection Confirmation" />
+  <br><sub>Official Selection Confirmation</sub>
 </td>
 </tr>
 </table>
 
----
-
-## 💻 Hand-Coded Projects
-
-### 🛒 [MultiMart](https://multi-mart-fastwithkamran.vercel.app) — Multivendor E-Commerce Platform
-
-A production-ready marketplace where multiple sellers run their own storefronts. Customers browse, checkout with Stripe, and chat with sellers in real time.
-
-**Stack:** `React 19` `Node.js` `Express 5` `MongoDB` `Socket.IO` `Stripe` `JWT` `Cloudinary` `Vercel` `Render`
-
-- 🔐 JWT auth with HTTP-only cookies + role-based guards (Customer / Seller / Admin)
-- 💳 Stripe payment integration with coupon codes
-- 💬 Real-time buyer ↔ seller chat via Socket.IO — deployed on Render separately to bypass Vercel's serverless WebSocket limits
-- 📧 Email activation via Nodemailer with a fix for Gmail's security scanner prefetching one-time links
-- 🏪 Full seller dashboard — manage products, orders, refunds & earnings withdrawal
-- 🔄 Redux Toolkit for global state · Redux Persist for auth · React Hook Form for validation
+* **GDG Pakistan Hackathon 2026:** Developed KaamYaab, an AI-agent platform for local service workers.
+* **Dev Weekends Fellowship:** Selected for an intensive full-stack engineering mentorship led by senior software engineers.
 
 ---
 
-### 🏡 [PakLands](https://paklands-realestate-project.vercel.app) — Real Estate Listing Platform
+## Tech Stack & Tools
 
-Browse, list, and discover properties across Pakistan. My first full MERN project — separate frontend and backend, later merged into a monorepo.
-
-**Stack:** `React 19` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary` `Firebase Auth` `Vercel`
-
-- 🔐 Email/password + Google Sign-In via Firebase Auth
-- 🏘️ Property listings with multi-image upload via Cloudinary
-- 🗺️ Cascading Province → City → Area filter system
-- 📱 Fully responsive · Swiper.js carousels · React Hot Toast notifications
-
----
-
-### 📟 [UniPrep](https://github.com/fastwithkamran/UniPrep) — University Entry Test Simulator *(1st Sem · C)*
-
-Console-based test prep tool built in pure C. Register → pick university + subject → attempt timed MCQs → see your score on a persistent leaderboard. All data saved via file I/O.
-
-**Stack:** `C` `File I/O` `CSV Parsing`
-
----
-
-## 🤖 Vibe Coded Projects
-
-> Directed, debugged, and deployed by me — code generated with AI assistance (AntiGravity / AI Studio / Claude Code).
-> Being AI-native is a real skill. These projects show I know how to ship ideas fast.
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| [Opportune](https://opportune-pk.vercel.app) | Next.js · Gemini API · Firebase · Cloudinary | Student opportunity platform for discovering hackathons, scholarships, internships, competitions, and events in one place. **AI Seekho Hackathon 2026.** |
-| [KaamYaab](https://github.com/fastwithkamran/KaamYaab) | Flutter · Python · Cohere AI · Firebase | Agentic mobile app connecting Pakistan's informal workers with customers. Multi-agent backend, voice booking in Urdu/English. **GDG Pakistan Hackathon 2026.** |
-| [CityVoice](https://cityvoice-fastwithkamran.vercel.app) | React · Firebase Firestore | Civic platform — residents submit urban ideas, community votes in real time. |
-
----
-
-## 🛠️ Skills
-
-**Comfortable — used in real, hand-coded projects:**
-
-```
-Languages      C  ·  C++ (OOP)  ·  JavaScript
-Frontend       HTML5  ·  CSS3  ·  React  ·  Bootstrap 5  ·  Tailwind CSS
-Backend        Node.js  ·  Express.js  ·  REST API Design
-Databases      MongoDB (Mongoose)  ·  Firebase Firestore
-Auth           JWT  ·  HTTP-only Cookies  ·  Firebase Auth  ·  Google OAuth
-Payments       Stripe API
-Real-Time      Socket.IO
-Storage        Cloudinary  ·  Multer
-Deployment     Vercel  ·  Render  ·  Google Cloud Run
-Tools          Git  ·  Redux Toolkit  ·  React Router  ·  Vite
-```
-
-**Familiar with (via AI-assisted projects):**
-
-```
-Gemini API  ·  Cohere AI  ·  Vertex AI (Prompt Design)  ·  Flutter  ·  Python
-```
+<table>
+  <tr>
+    <td width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+      <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Cohere_AI-39594C?style=flat-square&logo=cohere&logoColor=white" alt="Cohere" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 LeetCode
+## Activity & Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-fastwithkamran-orange?logo=leetcode&style=flat-square)](https://leetcode.com/fastwithkamran/)
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/fastwithkamran" alt="Kamran's GitHub Contributions Chart" width="100%" />
+</p>
+
+### Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/fastwithkamran/">
-    <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=dark&bg=1E3A8A&text=FFFFFF" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/fastwithkamran?theme=dark&bg=0d1f35&text=FFFFFF" alt="Kamran's LeetCode Stats" />
   </a>
 </p>
 
 ---
 
-## 🤝 Connect
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fastwithkamran)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/fastwithkamran)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamranayaz.83@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?logo=vercel&logoColor=white)](https://fastwithkamran.vercel.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fastwithkamran"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://fastwithkamran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00c8ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="mailto:kamranayaz.83@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
