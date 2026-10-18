@@ -4,17 +4,6 @@
   <b>Computer Science Student @ FAST-NUCES Karachi &nbsp;|&nbsp; Full-Stack & Mobile Developer &nbsp;|&nbsp; Dev Weekends Mentee</b>
 </p>
 
-<p align="center">
-  <a href="https://fastwithkamran.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fastwithkamran.vercel.app-00c8ff?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/fastwithkamran"><img src="https://img.shields.io/badge/LinkedIn-fastwithkamran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://leetcode.com/fastwithkamran/"><img src="https://img.shields.io/badge/LeetCode-fastwithkamran-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;
-  <a href="mailto:kamranayaz.83@gmail.com"><img src="https://img.shields.io/badge/Email-kamranayaz.83@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  Karachi, Pakistan &nbsp;·&nbsp; FAST-NUCES (BS CS, Class of 2029)
-</p>
-
 ---
 
 ## About
@@ -32,30 +21,30 @@ I am a Computer Science undergraduate at **FAST-NUCES Karachi** and a Full-Stack
 | :--- | :--- | :--- | :--- |
 | **MultiMart** | React 19, Node.js, Express, MongoDB, Socket.IO, Stripe | Production multivendor e-commerce platform. Features role-based JWT auth, real-time buyer-seller chat, Stripe checkout, and seller analytics dashboards. | [Live Demo](https://multi-mart-fastwithkamran.vercel.app) \| [GitHub](https://github.com/fastwithkamran/MultiMart) |
 | **Opportune** | NextJs, TypeScript, Gemini API, Firebase, Cloudinary | Opportunity discovery platform helping students find hackathons, internships, and scholarships. Features an embedded Gemini AI assistant. | [Live Demo](https://opportune-pk.vercel.app) \| [GitHub](https://github.com/fastwithkamran/Opportune) |
-| **PakLands** | React 19, Node.js, MongoDB, Docker, Firebase Auth | Real estate listing platform with cascading location filters and multi-image uploads. Fully containerized with Docker. | [Live Demo](https://paklands-realestate-project.vercel.app) \| [GitHub](https://github.com/fastwithkamran/PakLands) |
+| **PakLands** | React 19, Node.js, MongoDB, Docker, Firebase Auth | Real estate listing platform with cascading location filters and multi-image uploads. Fully containerized with Docker. | [Live Demo](https://paklands-fastwithkamran.vercel.app) \| [GitHub](https://github.com/fastwithkamran/PakLands) |
 
 ---
 
 ## Honors & Recognition
 
-### Google AI Seekho 2026 — Silver Tier Winner
-Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Recognized for engineering **[Opportune](https://opportune-pk.vercel.app)**.
+* **Dev Weekends Full-Stack Fellowship (Silver Fellow):** Intensive engineering fellowship guided by senior software engineers. Shipped production-grade MERN applications ([MultiMart](https://multi-mart-fastwithkamran.vercel.app), [PakLands](https://paklands-fastwithkamran.vercel.app)) and solved 50+ DSA challenges. &nbsp;·&nbsp; [Verify Credential](https://app.pathment.me/w/devweekends/verify/8PJW7EQG3XCR)
+
+* ### Google AI Seekho 2026
+
+Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Recognized for developing **[Opportune](https://opportune-pk.vercel.app)**.
 
 <table>
 <tr>
 <td align="center" width="50%">
   <img src="https://res.cloudinary.com/hodumcas/image/upload/v1786808023/Google_Swags_xdmkfa.jpg" width="100%" alt="Google AI Seekho 2026 Swag" />
-  <br><sub>Google AI Seekho 2026 Swag Package</sub>
+  <br><sub>Google AI Seekho 2026 Swags</sub>
 </td>
 <td align="center" width="50%">
   <img src="https://res.cloudinary.com/hodumcas/image/upload/v1791133848/Email_gms9by.png" width="100%" alt="AI Seekho 2026 Selection Confirmation" />
-  <br><sub>Official Selection Confirmation</sub>
+  <br><sub>Official Email Confirmation</sub>
 </td>
 </tr>
 </table>
-
-* **GDG Pakistan Hackathon 2026:** Developed KaamYaab, an AI-agent platform for local service workers.
-* **Dev Weekends Fellowship:** Selected for an intensive full-stack engineering mentorship led by senior software engineers.
 
 ---
 
@@ -118,13 +107,13 @@ Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telen
 
 ## Activity & Stats
 
-### GitHub Contributions
+### GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/40c463/fastwithkamran" alt="Kamran's GitHub Contributions Chart" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fastwithkamran&show_icons=true&theme=tokyonight&hide_rank=true&hide=stars,issues" alt="Kamran's GitHub Stats" />
 </p>
 
-### Problem Solving
+### LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/fastwithkamran/">
