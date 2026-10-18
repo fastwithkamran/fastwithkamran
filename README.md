@@ -4,8 +4,6 @@
   <b>Computer Science Student @ FAST-NUCES Karachi &nbsp;|&nbsp; Full-Stack & Mobile Developer &nbsp;|&nbsp; Dev Weekends Mentee</b>
 </p>
 
----
-
 ## About
 
 I am a Computer Science undergraduate at **FAST-NUCES Karachi** and a Full-Stack Engineering Mentee at **Dev Weekends**. I build production-ready web and mobile applications using the **MERN stack** and **React Native**, containerize with **Docker**, automate with **CI/CD pipelines**, and deploy across **AWS & Vercel**.
