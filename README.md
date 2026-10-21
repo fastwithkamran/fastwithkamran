@@ -8,7 +8,7 @@
 
 I am a Computer Science undergraduate at **FAST-NUCES Karachi** and a Full-Stack Engineering Mentee at **Dev Weekends**. I build production-ready web and mobile applications using the **MERN stack** and **React Native**, containerize with **Docker**, automate with **CI/CD pipelines**, and deploy across **AWS & Vercel**.
 
-* **Current Focus:** Data Structures & Algorithms in C++, cloud architecture, and building a full-featured Learning Management System (LMS).
+* **Current Focus:** Data Structures & Algorithms in C++, cloud architecture, and open-source contributions.
 * **Core Strengths:** Full-stack architecture, REST APIs, real-time communication (Socket.IO), payment gateways (Stripe), React & React Native, and CI/CD automation.
 
 ---
