@@ -31,7 +31,7 @@ Intensive engineering fellowship guided by senior software engineers. Shipped pr
 
 ### Google AI Seekho 2026
 
-Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Recognized for developing **[Opportune](https://opportune-pk.vercel.app)**.
+Awarded by **Google for Developers**, Pakistan's Ministry of IT & Telecom, Telenor Pakistan, and Innovista in a nationwide AI upskilling competition. Earned for developing **[Opportune](https://opportune-pk.vercel.app)**.
 
 <table>
 <tr>
